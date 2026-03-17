@@ -20,10 +20,3 @@ Wildlife poaching is a major threat. Manual monitoring is inefficient. This syst
 ## Results
 - Successfully detected human presence in test inputs
 - Generated predictions with confidence scores
-
-## Output Samples
-(see outputs folder)
-
-## Future Improvements
-- Real-time video detection
-- Integration with alert systems
